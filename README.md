@@ -8,4 +8,9 @@ If we don't have access rights to the file we are using, then we make a pull req
 
 ## practicing branching, pull request and merging.
 
-first I'm going to create a feature branch (I named it like that. You can name it anyway u want it to.) Remaining stuff will be done on that branch and merged into the main branch.
+first I'm going to create a feature branch (I named it like that. You can name it anyway u want it to.) Remaining stuff will be done on that branch and merged into the main branch. 
+
+
+## Created feature-practice-branch 
+
+Here I'm going to stage this change, commit and push it to github. then I'm going to create a pr and merge it with the main branch.
